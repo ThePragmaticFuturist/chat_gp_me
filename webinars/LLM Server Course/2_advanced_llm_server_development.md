@@ -410,3 +410,5 @@ Remember to:
 5. Set up alerts for critical errors
 
 These lessons provide a foundation for building a more robust and feature-complete LLM server. Each enhancement adds important functionality while maintaining security and reliability.
+
+Now that you have a basic LLM server running with some advanced features, you are ready to go a little deeper including adding a vector database and additional LLM model selection. Click here for [the advanced topics course](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/LLM%20Server%20Course/3_advanced_llm_topics.md).
