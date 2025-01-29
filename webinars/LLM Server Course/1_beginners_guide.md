@@ -293,6 +293,7 @@ If document processing fails:
 - Monitor disk space for temporary files
 
 ## Best Practices
+Here are some [best practices](https://github.com/ThePragmaticFuturist/chat_gp_me/edit/main/webinars/LLM%20Server%20Course/4_llm_server_best_practices.md) for your server:
 1. Always monitor GPU memory usage
 2. Implement proper error handling
 3. Use logging for debugging
@@ -300,7 +301,7 @@ If document processing fails:
 5. Proper session cleanup
 
 ## Next Steps
-After setting up the basic server, consider:
+After setting up the basic server, [add advanced features:](https://github.com/ThePragmaticFuturist/chat_gp_me/edit/main/webinars/LLM%20Server%20Course/2_advanced_llm_server_development.md)
 1. Adding authentication
 2. Implementing rate limiting
 3. Adding more document types
