@@ -10,6 +10,11 @@ Before starting, you should have:
 - Basic understanding of command line operations
 - An NVIDIA GPU (recommended for better performance)
 
+## Courses
+- [LLM Server]()
+- [LLM Middleware Server]()
+- [AI Chat Web and Mobile Application]()
+
 ## LEGAL DISCLAIMER
 LEGAL DISCLAIMER
 
