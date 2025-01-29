@@ -199,7 +199,7 @@ Master:
 4. Monitoring setup
 
 ## Next Steps
-After completing this course:
+After completing this course, try adding these [advanced features](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/LLM%20Middleware%20Course/2_advanced_llm_middleware.md):
 1. Implement additional security measures
 2. Add monitoring and logging
 3. Optimize performance
@@ -208,7 +208,8 @@ After completing this course:
 6. Add request validation
 
 ## Resources
-- Express.js documentation: https://expressjs.com/
-- Multer documentation: https://github.com/expressjs/multer
-- Node.js best practices: https://nodejs.org/en/docs/guides/
-- Error handling guide: https://expressjs.com/en/guide/error-handling.html
+- [Middleware Server Source Code (node_server_3000.js)](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/LLM%20Middleware%20Course/node_server_3000.js)
+- [Express.js documentation:](https://expressjs.com/)
+- [Multer documentation:](https://github.com/expressjs/multer)
+- [Node.js best practices:](https://nodejs.org/en/docs/guides/)
+- [Error handling guide:](https://expressjs.com/en/guide/error-handling.html)
