@@ -13,8 +13,8 @@ Before starting, you should have:
 ## Courses
 - [LLM Server](https://github.com/ThePragmaticFuturist/chat_gp_me/tree/main/webinars/LLM%20Server%20Course/1_beginners_guide.md)
 - [LLM Middleware Server](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/LLM%20Middleware%20Course/1_beginner_llm_middleware.md)
-- [AI Chat Web and Mobile Application](https://github.com/ThePragmaticFuturist/chat_gp_me/tree/main/webinars/AI%20Chat%20Course)
-
+- [AI Chat Web and Mobile Application](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/AI%20Chat%20Course/1_training-guide.md)
+  
 ## LEGAL DISCLAIMER
 LEGAL DISCLAIMER
 
