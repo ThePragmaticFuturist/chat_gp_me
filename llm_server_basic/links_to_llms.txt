@@ -1,0 +1,10 @@
+#models 
+
+https://model.lmstudio.ai/download/lmstudio-community/granite-3.1-8b-instruct-GGUF
+https://model.lmstudio.ai/download/lmstudio-community/Llama-3.3-70B-Instruct-GGUF
+https://model.lmstudio.ai/download/Qwen/Qwen2.5-Coder-14B-Instruct-GGUF
+https://model.lmstudio.ai/download/Qwen/Qwen2.5-Coder-32B-Instruct-GGUF
+https://model.lmstudio.ai/download/hugging-quants/Llama-3.2-1B-Instruct-Q8_0-GGUF
+https://model.lmstudio.ai/download/hugging-quants/Llama-3.2-3B-Instruct-Q8_0-GGUF
+https://model.lmstudio.ai/download/lmstudio-community/Qwen2.5-14B-Instruct-GGUF
+https://model.lmstudio.ai/download/lmstudio-community/Mistral-7B-Instruct-v0.3-GGUF
