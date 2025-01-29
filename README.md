@@ -11,9 +11,9 @@ Before starting, you should have:
 - An NVIDIA GPU (recommended for better performance)
 
 ## Courses
-- [LLM Server]()
-- [LLM Middleware Server]()
-- [AI Chat Web and Mobile Application]()
+- [LLM Server](https://github.com/ThePragmaticFuturist/webinars/LLM%20Server%20Course)
+- [LLM Middleware Server](https://github.com/ThePragmaticFuturist/webinars/LLM%20Middleware%20Course)
+- [AI Chat Web and Mobile Application](https://github.com/ThePragmaticFuturist/webinars/AI%20Chat%20Course)
 
 ## LEGAL DISCLAIMER
 LEGAL DISCLAIMER
