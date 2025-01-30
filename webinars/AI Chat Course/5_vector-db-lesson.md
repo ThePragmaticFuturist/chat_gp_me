@@ -389,4 +389,4 @@ Vector database optimization is a continuous process that requires careful balan
 4. Implement performance monitoring
 5. Consider the trade-offs between accuracy and speed
 
-Keep experimenting with these parameters and monitoring the results to find the optimal configuration for your specific use case.
+Keep experimenting with these parameters and monitoring the results to find the optimal configuration for your specific use case. [Next: Enhanced Rag](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/AI%20Chat%20Course/6_enhanced-rag-lesson.md)
