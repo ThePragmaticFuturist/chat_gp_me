@@ -56,3 +56,5 @@ No advice or information, whether oral or written, obtained through these Materi
 Some jurisdictions do not allow the exclusion of certain warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to you. In such jurisdictions, liability shall be limited to the greatest extent permitted by law.
 
 BY USING THESE MATERIALS, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THIS DISCLAIMER AND UNDERSTAND AND AGREE TO ITS TERMS.
+
+Copyright © 2025 Kenneth Hubbell. All Rights Reserved.
