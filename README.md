@@ -10,6 +10,11 @@ Before starting, you should have:
 - Basic understanding of command line operations
 - An NVIDIA GPU (recommended for better performance)
 
+## What You will Build
+1. A front-end Expo app (React Native) that works on web and mobile devices
+2. A Node.js backend middleware server that handles routing and file management
+3. A Python server running the Large Language Model (LLM)
+
 ## Courses
 - [LLM Server](https://github.com/ThePragmaticFuturist/chat_gp_me/tree/main/webinars/LLM%20Server%20Course/1_beginners_guide.md)
 - [LLM Middleware Server](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/LLM%20Middleware%20Course/1_beginner_llm_middleware.md)
