@@ -1,4 +1,4 @@
-# Building an LLM Server: A Complete Guide for Beginners
+# Building an LLM AI Chat: A Complete Guide for Beginners
 
 ## Introduction
 This guide will walk you through creating a Language Learning Model (LLM) server from scratch. An LLM server allows you to run AI models locally and create a chat interface similar to ChatGPT. We'll use Python and several supporting libraries to build this server.
