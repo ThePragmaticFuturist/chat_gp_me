@@ -335,4 +335,4 @@ You've learned how to build a complete chat system that works across platforms. 
 4. Proper data structures make managing chat data easier
 5. Async storage helps persist data between sessions
 
-Keep practicing and experimenting with different features to enhance your chat system!
+Keep practicing and experimenting with different features to enhance your chat system! [Next: Document Processing](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/AI%20Chat%20Course/3_document-processing-lesson.md)
