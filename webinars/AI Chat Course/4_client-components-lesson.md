@@ -412,4 +412,4 @@ Understanding how these components work together is crucial for building a robus
 4. Proper component organization improves maintainability
 5. Theme awareness creates a better user experience
 
-Keep practicing with these components, and you'll become proficient at building complex, maintainable React Native applications!
+Keep practicing with these components, and you'll become proficient at building complex, maintainable React Native applications! [Next: Vector Db](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/AI%20Chat%20Course/5_vector-db-lesson.md)
