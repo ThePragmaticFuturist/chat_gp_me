@@ -249,4 +249,4 @@ Tips for debugging:
 3. Stack Overflow
 4. GitHub Discussions
 
-This guide provides a foundation for building the LLM chat application. As you progress, you'll discover more advanced features and optimizations you can implement to enhance the user experience and application functionality.
+This guide provides a foundation for building the LLM chat application. As you progress, you'll discover more advanced features and optimizations you can implement to enhance the user experience and application functionality. [Next: Chat System](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/AI%20Chat%20Course/2_chat-system-lesson.md)
