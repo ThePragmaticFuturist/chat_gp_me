@@ -11,9 +11,12 @@ Before starting, you should have:
 - An NVIDIA GPU (recommended for better performance)
 
 ## What You will Build
-1. A front-end Expo app (React Native) that works on web and mobile devices
-2. A Node.js backend middleware server that handles routing and file management
-3. A Python server running the Large Language Model (LLM)
+1. A front-end Expo app (React Native and Node.js) that works on web and mobile devices (llm_chat_front_end)
+2. A Node.js backend middleware server that handles routing and file management (llm_middleware_server)
+3. A Python server running the Large Language Model (LLM) (llm_server_basic)
+
+## Source Code
+The source code is provided for you to freely use. Please note that to reduce the load times, the node_modules (packages) folder for each of the Node.js parts of the system are not included and will require installation as per the instructions in the webinars.  
 
 ## Courses
 - [LLM Server](https://github.com/ThePragmaticFuturist/chat_gp_me/tree/main/webinars/LLM%20Server%20Course/1_beginners_guide.md)
