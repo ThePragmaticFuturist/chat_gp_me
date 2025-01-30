@@ -363,4 +363,4 @@ Document processing with RAG is a powerful way to give AI systems access to spec
 4. Error handling must be comprehensive
 5. Performance optimization is important for larger documents
 
-Keep experimenting and refining your implementation to create a more powerful and user-friendly system!
+Keep experimenting and refining your implementation to create a more powerful and user-friendly system! [Next: Client Components](https://github.com/ThePragmaticFuturist/chat_gp_me/blob/main/webinars/AI%20Chat%20Course/4_client-components-lesson.md)
